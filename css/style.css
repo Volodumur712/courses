@@ -1,6 +1,11 @@
 
 
-.coloun {
-    display: flex;
-    background: rebeccapurple;
+li {
+    margin-top: 15px;
 }
+
+.sidebar {
+    /* background: aquamarine; */
+    border-radius: 25px;
+}
+
