@@ -1,4 +1,35 @@
 
+.firstrow {
+    display: flex;
+}
+
+.fifst-coloun {
+    width: 60%;
+    background:  rgb(243, 234, 155);
+}
+
+.two-coloun {
+    background: chartreuse;
+    width: 40%;
+}
+
+.git {
+    display: flex;
+    background: rgb(166, 242, 245);
+}
+
+.git-n {
+    display: flex;
+    justify-content: center;
+    padding: 0, 20px;
+    background: rgb(238, 234, 8);
+}
+
+.git-n a {
+    padding: 0 40px;
+}
+
+
 
 li {
     margin-top: 15px;
